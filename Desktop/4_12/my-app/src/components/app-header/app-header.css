@@ -8,13 +8,8 @@
     /* width: 150px;
     height: 150px; */
     font-size: 26px;
-    
   }
   
-  .app-header :hover {
-    color: blue;
-  }
-
   .app-header h2 {
     font-size: 1.2rem;
     color: grey;
